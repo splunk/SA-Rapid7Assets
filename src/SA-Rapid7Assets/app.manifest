@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "SA-Rapid7Assets",
+    "id": {
+      "group": null,
+      "name": "SA-Rapid7Assets",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "ZachTheSplunker",
+        "email": "zach@zachthesplunker.com",
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "This supporting add-on comes with prebuilt content for Rapid7 Asset data to be easily used with Splunk Enterprise Security's Asset database.",
+    "classification": {
+      "intendedAudience": "Security",
+      "categories": [
+        "Endpoint",
+        "Security, Fraud, & Compliance",
+        "Information"
+      ],
+      "developmentStatus": "Production/Stable"
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": "Apache License",
+      "text": null,
+      "uri": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    "privacyPolicy": {
+      "name": "Splunk Privacy Policy",
+      "text": null,
+      "uri": "https://www.splunk.com/en_us/legal/privacy/privacy-policy.html"
+    },
+    "releaseNotes": {
+      "name": "README",
+      "uri": "https://splunk-rapid7.ztsplunker.com/reference/releases/"
+    }
+  },
+  "dependencies": {
+    "TA-rapid7-insightvm": {
+      "version": ">=1.3.2",
+      "optional": true
+    },
+    "SplunkEnterpriseSecuritySuite": {
+      "version": ">=7.0.0",
+      "optional": false
+    }
+  },
+  "tasks": [
+    "identity_manager://sa_rapid7_assets"
+  ],
+  "inputGroups": null,
+  "incompatibleApps": null,
+  "platformRequirements": null,
+  "supportedDeployments": [
+    "*"
+  ],
+  "targetWorkloads": [
+    "_search_heads"
+  ]
+}
