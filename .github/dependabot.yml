@@ -1,0 +1,9 @@
+---
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/docs"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "09:00"
