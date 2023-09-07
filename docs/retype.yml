@@ -1,0 +1,28 @@
+input: .
+output: .retype
+url: splunk-rapid7.ztsplunker.com
+branding:
+  title: SA-Rapid7Assets
+  label: v1.0.0
+  logo: static/sa-rapid7-small.svg
+  colors:
+    label:
+      text: "#fff"
+      background: "#e85e26"
+links:
+- text: Splunkbase
+  link: https://splunkbase.splunk.com/
+  target: blank
+  icon: apps
+- text: GitHub
+  link: https://github.com/ZachChristensen28/SA-Rapid7Assets/releases
+  target: blank
+  icon: mark-github
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved.\nMade with :icon-heart-fill: by [ZachTheSplunker](https://www.linkedin.com/in/zachthesplunker/){ target=blank }"
+  links: 
+    - text: Connect with ZachTheSplunker on LinkedIn
+      link: https://www.linkedin.com/in/zachthesplunker/
+      target: blank
+markdown:
+  lineBreaks: hard
