@@ -29,7 +29,7 @@ Full documentation can be found at [https://splunk-rapid7.ztsplunker.com](https:
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.0 - [Splunkbase](https://splunkbase.splunk.com/app/7025) \| [GitHub](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases)
+SA-Rapid7Assets | 1.0.1 - [Splunkbase](https://splunkbase.splunk.com/app/7025) \| [GitHub](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases)
 Splunk Enterprise Security Version (Required) | [7.x \| 6.x](https://splunkbase.splunk.com/app/263)
 Rapid7 InsightVM Technology Add-On (Required) | [>=1.3.2](https://splunkbase.splunk.com/app/5097)
 Add-on has a web UI | No, this add-on does not contain views.

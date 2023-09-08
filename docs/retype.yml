@@ -3,7 +3,7 @@ output: .retype
 url: splunk-rapid7.ztsplunker.com
 branding:
   title: SA-Rapid7Assets
-  label: v1.0.0
+  label: v1.0.1
   logo: static/sa-rapid7-small.svg
   colors:
     label:

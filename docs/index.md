@@ -29,7 +29,7 @@ This documentation assumes the following:
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.0 - [Splunkbase<small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub<small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/){ target="blank" }
+SA-Rapid7Assets | 1.0.1 - [Splunkbase<small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub<small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/){ target="blank" }
 Splunk Enterprise Security Version <small>(Required)</small> | [7.x \| 6.x<small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/263){ target="blank" }
 Rapid7 InsightVM Technology Add-On <small>(Required)</small> | [>=1.3.2<small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/5097){ target="blank" }
 Add-on has a web UI | No, this add-on does not contain views.

@@ -37,7 +37,7 @@ body:
       description: >-
         Which version of this add-on (SA-Rapid7Assets) are you using?
       placeholder: |-
-        1.0.0
+        1.0.1
 
   - type: input
     id: ta-version
