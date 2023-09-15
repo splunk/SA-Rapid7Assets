@@ -3,7 +3,7 @@ output: .retype
 url: splunk-rapid7.ztsplunker.com
 branding:
   title: SA-Rapid7Assets
-  label: v1.0.1
+  label: v1.0.2
   logo: static/sa-rapid7-small.svg
   colors:
     label:
@@ -11,7 +11,7 @@ branding:
       background: "#e85e26"
 links:
 - text: Splunkbase
-  link: https://splunkbase.splunk.com/
+  link: https://splunkbase.splunk.com/app/7025
   target: blank
   icon: apps
 - text: GitHub

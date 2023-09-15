@@ -23,13 +23,13 @@ Full documentation can be found at [https://splunk-rapid7.ztsplunker.com](https:
 
 ## Disclaimer
 
-> *This Splunk Supporting Add-on is __not__ affiliated with [__Rapid7 LLC__][r7] and is not sponsored or sanctioned by the Rapid7 team. As such, the included documentation does not contain information on how to get started with Rapid7. Rather, this documentation serves as a guide to use Rapid7 Asset data with Splunk Enterprise Security. Please visit [https://www.rapid7.com/][r7] for more information about Rapid7.*
+> *This Splunk Supporting Add-on is __not__ affiliated with [__Rapid7 LLC__][r7] and is not sponsored or sanctioned by the Rapid7 team. Please visit [https://www.rapid7.com/][r7] for more information about Rapid7.*
 
 ## About
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.1 - [Splunkbase](https://splunkbase.splunk.com/app/7025) \| [GitHub](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases)
+SA-Rapid7Assets | 1.0.2 - [Splunkbase](https://splunkbase.splunk.com/app/7025) \| [GitHub](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases)
 Splunk Enterprise Security Version (Required) | [7.x \| 6.x](https://splunkbase.splunk.com/app/263)
 Rapid7 InsightVM Technology Add-On (Required) | [>=1.3.2](https://splunkbase.splunk.com/app/5097)
 Add-on has a web UI | No, this add-on does not contain views.
