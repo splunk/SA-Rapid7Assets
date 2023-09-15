@@ -18,4 +18,4 @@ expanded: true
 2. [Update default index](macro.md)
 3. [Force Build](build.md) <small>(optional)</small>
 4. [Enable Asset Correlation in ES](sources.md)
-5. [Update default schedule](scheduled-search.md) <small>(optional)</small>
+5. [Update default schedule and Retention](scheduled-search.md) <small>(optional)</small>

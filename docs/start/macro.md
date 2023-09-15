@@ -6,7 +6,7 @@ icon: command-palette
 
 # Update Splunk Index
 
-!!!danger [Danger, Will Robinson<small>:icon-link-external:</small>](https://cultural-phenomenons.fandom.com/wiki/Danger,_Will_Robinson){ target="blank" }
+!!!danger [Danger, Will Robinson <small>:icon-link-external:</small>](https://cultural-phenomenons.fandom.com/wiki/Danger,_Will_Robinson){ target="blank" }
 Failure to update the index to the correct setting will cause no devices to be available in Splunk Enterprise Security.
 !!!
 

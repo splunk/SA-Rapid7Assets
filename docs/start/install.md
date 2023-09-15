@@ -10,15 +10,15 @@ icon: package
 This supporting add-on must be installed alongside Splunk Enterprise Security. Ensure the [prequisites](prerequisites.md) have been completed before proceeding.
 !!!
 
-For detailed information on where to install Splunk Apps/add-ons, including best practices, can be found at [Splunk Docs: About Installing Splunk add-ons<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Wheretoinstall){ target="blank" }
+For detailed information on where to install Splunk Apps/add-ons, including best practices, can be found at [Splunk Docs: About Installing Splunk add-ons <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Wheretoinstall){ target="blank" }
 
 ## Splunk Cloud
 
-Install this app to your Enterprise Security Search head. See [How to install apps on Splunk Cloud<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/SplunkCloud/latest/Admin/SelfServiceAppInstall){ target="blank" }.
+Install this app to your Enterprise Security Search head. See [How to install apps on Splunk Cloud <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/SplunkCloud/latest/Admin/SelfServiceAppInstall){ target="blank" }.
 
 ## Standalone Deployments (with Splunk ES)
 
-Install this add-on to the single instance. For more information see [Splunk Docs: Install add-on in a single-instance Splunk deployment<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall){ target="blank" }
+Install this add-on to the single instance. For more information see [Splunk Docs: Install add-on in a single-instance Splunk deployment <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall){ target="blank" }
 
 ## Distributed Deployments
 
@@ -33,7 +33,7 @@ Indexers | No | No | Do not install on Indexers.
 Heavy Forwarders | No | No | Do not install on Heavy Forwarders.
 Universal Forwarders | No | No | Do not install on Universal Forwarders.
 
-The installation steps for deploying Apps/add-ons in a distributed environment can be found at [Splunk Docs: Install an add-on in a distributed Splunk deployment<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Distributedinstall){ target="blank" }
+The installation steps for deploying Apps/add-ons in a distributed environment can be found at [Splunk Docs: Install an add-on in a distributed Splunk deployment <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Distributedinstall){ target="blank" }
 
 ## Distributed Deployment Compatibility
 
@@ -43,4 +43,4 @@ Search Head Clusters | Yes | You can install this add-on to an Enterprise Securi
 Indexer Clusters | No | Do not deploy this add-on to an Indexer cluster.
 Deployment Server | No | There is no need to use a deployment server to deploy this add-on.
 
-\* For more information, see Splunk's [documentation<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Installingadd-ons){ target="blank" } on installing Add-ons.
+\* For more information, see Splunk's [documentation <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Installingadd-ons){ target="blank" } on installing Add-ons.
