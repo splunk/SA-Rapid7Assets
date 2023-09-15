@@ -13,7 +13,7 @@ Latest release can be found on [Splunkbase <small>:icon-link-external:</small>](
 Released: [September 14, 2023 <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/tag/v1.0.2){ target="blank" }
 
 +++ Improved :icon-thumbsup:
-- [x] Moved to using the built-in retention within Search-Driven lookups.
+- [x] Moved to use the built-in retention within Search-Driven lookups.
 +++ Fixed :icon-bug:
 - [x] Search-Driven Lookup error when viewing.
 +++ Removed :icon-shield-x:
