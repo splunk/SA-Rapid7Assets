@@ -14,7 +14,7 @@ The default saved search runs on the 39th minute of every hour to update and con
 ==- :icon-star-fill: Use Enterprise Security's Settings <small>(Recommended)</small>
 1. <small>(In Enterprise Security)</small> Navigate to Configure > Content > Content Management.
 2. Type "Rapid7" in the filter text box.
-3. Click "Rapid7 Assets."
+3. Click "Rapid7 Assets." <small>(not `Rapid7 Asses - Lookup Gen`)</small>
 4. Update the "Schedule" section as necessary
 5. If necessary, the retention settings can be modified by changing the "Retention" at the bottom.
 ==- Update the Schedule Manually (For retention settings follow previous steps)
