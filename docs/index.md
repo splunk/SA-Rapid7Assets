@@ -15,7 +15,7 @@ This Supporting add-on is only intended to work with [Splunk Enterprise Security
 
 > __*Disclaimer*__
 > 
-> *This Splunk Supporting Add-on is __not__ affiliated with [__Rapid7 LLC__ <small>:icon-link-external:</small>][r7]{ target="blank" } and is not sponsored or sanctioned by the Rapid7 team. As such, the included documentation does not contain information on how to get started with Rapid7. Rather, this documentation serves as a guide to use Rapid7 device data with Splunk Enterprise Security. Please visit [https://www.rapid7.com/ <small>:icon-link-external:</small>][r7]{ target="blank" } for more information about Rapid7.*
+> *This Splunk Supporting Add-on is __not__ affiliated with [__Rapid7 LLC__ <small>:icon-link-external:</small>][r7]{ target="blank" } and is not sponsored or sanctioned by the Rapid7 team. Please visit [https://www.rapid7.com/ <small>:icon-link-external:</small>][r7]{ target="blank" } for more information about Rapid7.*
 
 ## Assumptions
 
@@ -29,7 +29,7 @@ This documentation assumes the following:
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.1 - [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/){ target="blank" }
+SA-Rapid7Assets | 1.0.2 - [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/){ target="blank" }
 Splunk Enterprise Security Version <small>(Required)</small> | [7.x \| 6.x <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/263){ target="blank" }
 Rapid7 InsightVM Technology Add-On <small>(Required)</small> | [>=1.3.2 <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/5097){ target="blank" }
 Add-on has a web UI | No, this add-on does not contain views.
