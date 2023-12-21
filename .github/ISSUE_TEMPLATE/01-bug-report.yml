@@ -20,12 +20,12 @@ body:
       label: Related links
       description: >-
         Please list all links to the sections of
-        [the documentation](https://splunk-rapid7.ztsplunker.com/) that
+        [the documentation](https://splunk.github.io/SA-Rapid7Assets/) that
         are relevant to the bug in order to show that you have consulted and
         thoroughly read it. Additionally, list links to possibly related open
-        and closed [issues](https://github.com/ZachChristensen28/SA-Rapid7Assets/issues).
+        and closed [issues](https://github.com/splunk/SA-Rapid7Assets/issues).
       value: |-
-        - [Example Issue](https://splunk-rapid7.ztsplunker.com/)
+        - [Example Issue](https://splunk.github.io/SA-Rapid7Assets/)
         -
     validations:
       required: true
@@ -71,3 +71,7 @@ body:
         9.0.1
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: '## Thank you for taking the time to fill out this bug report!'

@@ -6,5 +6,6 @@ __pycache__/
 venv
 .idea
 Pipfile**
-retype.manifest
+**/data
 .retype/**
+retype.manifest
