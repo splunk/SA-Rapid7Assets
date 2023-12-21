@@ -5,7 +5,7 @@ icon: question
 
 # Troubleshooting
 
-There can be many issues when setting up a new app/add-on in Splunk. Below highlights the most common issues with this Add-on. Don't see your issue? Submit a new issue on [Github <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/issues){ target="blank" }.
+There can be many issues when setting up a new app/add-on in Splunk. Below highlights the most common issues with this Add-on. Don't see your issue? Submit a new issue on [Github <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/issues){ target="blank" }.
 
 Issue | Description | Solution
 ----- | ----------- | --------

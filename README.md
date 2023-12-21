@@ -35,7 +35,7 @@ This supporting add-on comes with prebuilt content for Rapid7 InsightVM data to 
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.2 - [Splunkbase](https://splunkbase.splunk.com/app/7025)
+SA-Rapid7Assets | 1.0.3 - [Splunkbase](https://splunkbase.splunk.com/app/7025)
 Splunk Enterprise Security Version (Required) | [7.x \| 6.x](https://splunkbase.splunk.com/app/263)
 Rapid7 InsightVM Technology Add-On (Required) | [>=1.3.2](https://splunkbase.splunk.com/app/5097)
 Add-on has a web UI | No, this add-on does not contain views.

@@ -6,11 +6,25 @@ label: Releases
 
 # Release Notes
 
-Latest release can be found on [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } or [GitHub <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases){ target="blank" }.
+Latest release can be found on [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" }.
 
-## v1.0.2 [!badge text="LATEST" variant="info"]
+## v1.0.3 [!badge text="LATEST" variant="info" icon="package"]
 
-Released: [September 14, 2023 <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/tag/v1.0.2){ target="blank" }
+Released: [December 21, 2023 <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/releases/tag/v1.0.3){ target="blank" }
+
++++ What's Changed :icon-verified:
+- [x] Splunkworks updates
++++
+
+This release contains no functional changes. 
+
+**Full Changelog**: [v1.0.2...v1.0.3 <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/compare/v1.0.2...v1.0.3){ target=blank }
+
+---
+
+## v1.0.2
+
+Released: [September 14, 2023 <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/releases/tag/v1.0.2){ target="blank" }
 
 +++ Improved :icon-thumbsup:
 - [x] Moved to use the built-in retention within Search-Driven lookups.
@@ -20,9 +34,13 @@ Released: [September 14, 2023 <small>:icon-link-external:</small>](https://githu
 - [x] `sa_rapid7_retention` macro.
 +++
 
+**Full Changelog**: [v1.0.1...v1.0.2 <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/compare/v1.0.1...v1.0.2){ target=blank }
+
+---
+
 ## v1.0.1
 
-Released: [September 8, 2023 <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/tag/v1.0.1){ target="blank" }
+Released: [September 8, 2023 <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/releases/tag/v1.0.1){ target="blank" }
 
 +++ New :icon-shield-check:
 - [x] Initial Release
