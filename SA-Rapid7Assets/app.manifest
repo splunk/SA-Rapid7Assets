@@ -5,12 +5,12 @@
     "id": {
       "group": null,
       "name": "SA-Rapid7Assets",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
     "author": [
       {
         "name": "ZachTheSplunker",
-        "email": "zach@zachthesplunker.com",
+        "email": "zchristensen@splunk.com",
         "company": null
       }
     ],
@@ -27,9 +27,9 @@
     },
     "commonInformationModels": null,
     "license": {
-      "name": "Apache License",
+      "name": "SPLUNK GENERAL TERMS",
       "text": null,
-      "uri": "https://www.apache.org/licenses/LICENSE-2.0"
+      "uri": "https://www.splunk.com/en_us/legal/splunk-general-terms.html"
     },
     "privacyPolicy": {
       "name": "Splunk Privacy Policy",
@@ -38,7 +38,7 @@
     },
     "releaseNotes": {
       "name": "README",
-      "uri": "https://splunk-rapid7.ztsplunker.com/reference/releases/"
+      "uri": "https://splunk.github.io/SA-Rapid7Assets/releases/"
     }
   },
   "dependencies": {
