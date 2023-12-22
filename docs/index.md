@@ -3,7 +3,7 @@ icon: home
 label: Home
 ---
 
-![](static/sa-rapid7-hero.webp)
+![](static/hero.webp)
 
 # Welcome to the Docs!
 
@@ -21,7 +21,7 @@ This Supporting add-on is only intended to work with [Splunk Enterprise Security
 
 This documentation assumes the following:
 
-1. You have a working Splunk Enterprise Security environment. __This add-on is not intended to work without Splunk ES.__
+1. You have a working Splunk Enterprise Security environment. __This add-on is not intended to work without Splunk Enterprise Security.__
 2. You already have Rapid7 asset data ingested using the [Rapid7 InsightVM Technology Add-On <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/5097){ target="blank" }.
 3. Familiarity with setting up a new Asset source in Enterprise Security.
 
@@ -29,7 +29,7 @@ This documentation assumes the following:
 
 Info | Description
 ------|----------
-SA-Rapid7Assets | 1.0.2 - [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub <small>:icon-link-external:</small>](https://github.com/ZachChristensen28/SA-Rapid7Assets/releases/){ target="blank" }
+SA-Rapid7Assets | 1.0.3 - [Splunkbase <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/7025){ target="blank" } \| [GitHub <small>:icon-link-external:</small>](https://github.com/splunk/SA-Rapid7Assets/releases/){ target="blank" }
 Splunk Enterprise Security Version <small>(Required)</small> | [7.x \| 6.x <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/263){ target="blank" }
 Rapid7 InsightVM Technology Add-On <small>(Required)</small> | [>=1.3.2 <small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/5097){ target="blank" }
 Add-on has a web UI | No, this add-on does not contain views.

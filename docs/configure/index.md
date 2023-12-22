@@ -13,4 +13,3 @@ Each field can be customized to fit your environment. The following fields shoul
 
 - [Update Priority](priority.md) <small>(recommended)</small>
 - [Update Category](category.md)
-- [Update Cleanup](cleanup.md)

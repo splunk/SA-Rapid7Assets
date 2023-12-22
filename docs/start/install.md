@@ -12,11 +12,11 @@ This supporting add-on must be installed alongside Splunk Enterprise Security. E
 
 For detailed information on where to install Splunk Apps/add-ons, including best practices, can be found at [Splunk Docs: About Installing Splunk add-ons <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Wheretoinstall){ target="blank" }
 
-## Splunk Cloud
+## Splunk Cloud Platform
 
-Install this app to your Enterprise Security Search head. See [How to install apps on Splunk Cloud <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/SplunkCloud/latest/Admin/SelfServiceAppInstall){ target="blank" }.
+Install this app to your Enterprise Security Search head. See [How to install apps on The Splunk Cloud Platform <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/SplunkCloud/latest/Admin/SelfServiceAppInstall){ target="blank" }.
 
-## Standalone Deployments (with Splunk ES)
+## Standalone Deployments (with Splunk Enterprise Security)
 
 Install this add-on to the single instance. For more information see [Splunk Docs: Install add-on in a single-instance Splunk deployment <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall){ target="blank" }
 
@@ -27,8 +27,8 @@ Install this add-on to the single instance. For more information see [Splunk Doc
 
 Splunk Instance type | Supported | Required | Comments
 -------------------- | --------- | -------- | --------
-Enterprise Security Search Head | Yes | Yes | Install this add-on to the Enterprise Security Search Head.
-Splunk Core Search Head (without ES) | No | No | Do not install on regular search heads.
+Splunk Enterprise Security Search Head | Yes | Yes | Install this add-on to the Enterprise Security Search Head.
+Splunk Core Search Head (without Splunk Enterprise Security) | No | No | Do not install on regular search heads.
 Indexers | No | No | Do not install on Indexers.
 Heavy Forwarders | No | No | Do not install on Heavy Forwarders.
 Universal Forwarders | No | No | Do not install on Universal Forwarders.
