@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://splunk-rapid7.ztsplunker.com/sitemap.xml.gz
+Sitemap: https://splunk.github.io/SA-Rapid7Assets/sitemap.xml.gz
